@@ -149,7 +149,7 @@ body {
 
 .box,
 .contact-box {
-    background: white;
+    background: rgb(255, 255, 255);
     width: 250px;
     padding: 20px;
     border-radius: 12px;
@@ -195,10 +195,10 @@ body {
 /* PRODUCT IMAGE */
 .product-card img {
     width: 100%;
-    height: 700px;
+    height: 500px;
     object-fit: contain;
     border-radius: 20px;
-    background: rgb(123, 138, 42);
+    background: brown;
     padding: 10px;
 }
 
