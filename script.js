@@ -13,7 +13,19 @@ const products = [
         name: "Eggs",
         price: "Ksh.25",
         image: "image/Eggs.jpg"
-    }
+    },
+    {
+        name: "AbuHamza",
+
+        image: "image/Shop.jpg"
+
+    },
+
+    {
+        name: "Different Juices",
+
+        image: "image/drinks.jpg"
+    },
 ];
 
 const productsContainer = document.getElementById("products");
