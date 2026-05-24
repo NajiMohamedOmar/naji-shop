@@ -1,18 +1,18 @@
 const products = [
     {
-        name: "Laptop",
-        price: "$500",
-        image: "images/laptop.jpg"
+        name: "Samosa",
+        price: "Ksh.10",
+        image: "images/Samosa.jpg"
     },
     {
-        name: "Phone",
-        price: "$250",
-        image: "images/phone.jpg"
+        name: "Soft drinks",
+        price: "50",
+        image: "images/Soft drinks.jpg"
     },
     {
-        name: "Headphones",
-        price: "$40",
-        image: "images/headphones.jpg"
+        name: "Eggs",
+        price: "Ksh.25",
+        image: "images/Eggs.jpg"
     }
 ];
 
