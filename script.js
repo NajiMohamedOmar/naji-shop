@@ -2,17 +2,17 @@ const products = [
     {
         name: "Samosa",
         price: "Ksh.10",
-        image: "images/Samosa.jpg"
+        image: "image/Samosa.jpg"
     },
     {
         name: "Soft drinks",
         price: "50",
-        image: "images/Soft drinks.jpg"
+        image: "image/Soft drinks.jpg"
     },
     {
         name: "Eggs",
         price: "Ksh.25",
-        image: "images/Eggs.jpg"
+        image: "image/Eggs.jpg"
     }
 ];
 
