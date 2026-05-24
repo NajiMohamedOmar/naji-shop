@@ -9,21 +9,43 @@
 
 <body>
 
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="products.html">Products</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
+    <nav class="navbar">
+        <div class="logo">Naji Shop</div>
+
+        <div class="nav-links">
+            <a href="index.html" class="active">Home</a>
+            <a href="products.html">Products</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </div>
     </nav>
 
-    <header>
-        <h1>Naji Shop</h1>
-        <p>Products Available</p>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Naji Shop</h1>
+            <p>Fresh Products • Best Prices • Fast Service</p>
+            <a href="products.html" class="btn">Shop Now</a>
+        </div>
     </header>
 
-    <section id="products">
+    <section class="features">
+        <div class="feature-box">
+            <h3>🛒 Quality Products</h3>
+            <p>We sell only fresh and trusted items.</p>
+        </div>
 
+        <div class="feature-box">
+            <h3>💰 Affordable Prices</h3>
+            <p>Best prices in the market for everyone.</p>
+        </div>
+
+        <div class="feature-box">
+            <h3>🚚 Fast Delivery</h3>
+            <p>Quick delivery right to your doorstep.</p>
+        </div>
     </section>
+
+    <section id="products"></section>
 
     <script src="script.js"></script>
 
