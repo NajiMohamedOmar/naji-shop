@@ -195,9 +195,11 @@ body {
 /* PRODUCT IMAGE */
 .product-card img {
     width: 100%;
-    height: 260px;
-    object-fit: cover;
-    border-radius: 12px;
+    height: 700px;
+    object-fit: contain;
+    border-radius: 20px;
+    background: rgb(123, 138, 42);
+    padding: 10px;
 }
 
 /* PRODUCT TEXT */
